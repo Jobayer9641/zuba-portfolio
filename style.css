@@ -1,0 +1,170 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 25px;
+    color: darkslategray;
+}
+p{
+    font-size: 20px;
+    color: rgb(49, 49, 49);
+}
+.nav{
+    color: rgb(43, 43, 43);
+    float: right;
+    font-size: 20px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-top: 10px;
+    margin-top: 0;
+    margin-right: 10px;
+    text-decoration: none;
+}
+.sec1{
+    padding-bottom: 60px;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+#name{
+    color: rgb(246, 169, 96);
+}
+.sec2{
+    height: 500px;
+    padding-bottom: 200px;
+    
+}
+.sec3{
+    background-color: rgb(236, 232, 225);
+    height: 450px;
+    padding-bottom: 200px;
+    background-image: url(images/dream-bg.png);
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.sec4{
+    height: 500px;
+    padding-bottom: 200px;
+    background-color: whitesmoke;
+}
+.part{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 2%;
+}
+.part img{
+    width: 100%;
+}
+#hire{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 10px;
+    background-image: linear-gradient(45deg, rgb(228, 169, 115), rgb(241, 137, 39));
+}
+#hire2{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 10px;
+    background-image: linear-gradient(45deg, rgb(122, 113, 250), rgb(61, 47, 255));
+}
+.hire3{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(27, 5, 1);
+}
+#bl-hd{
+    color: rgb(79, 69, 206);
+    font-weight: 900;
+}
+.part3{
+    background-color: rgb(228, 201, 176);
+    width: 28%;
+    float: left;
+    margin-left: 3%;
+    padding: 1%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 100%;
+
+}
+.part3 img{
+    width: 100%;
+}
+#cntr{
+    text-align: center;
+}
+.sec5{
+    padding-bottom: 200px;
+    height: 500px;
+    background-color: mintcream;
+}
+.back{
+    height: 500px;
+    width: 100%;
+    background-color: rgb(248, 243, 242);
+    background-image: url(images/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 80%;
+
+}
+.party{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 2%;
+    text-align: center;
+    padding-top: 220px;
+}
+#btm{
+    color: white;
+}
+#chat{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 10px;
+    background-image: linear-gradient(45deg, rgb(228, 169, 115), rgb(241, 137, 39));
+}
+#white{
+    color: white;
+    font-size: 20px;
+}
+.last{
+    padding-top: 10px;
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(238, 238, 238);
+}
+.last img{
+    width: 40px;
+}
+#l1{
+    font-family: monospace;
+}
+#l2{
+    font-style: initial;
+    color: lightsalmon;
+}
+#footer{
+    text-align: center;
+    font-size: 15px;
+}
